@@ -45,7 +45,7 @@
 border-radius: 0.25rem; }
 
 .dsMenuH3 {
-  color: #D2D2D2;
+  color: #ffffff;
   font-size: 1rem;
   font-weight: 600;
   letter-spacing: 0.1rem;
@@ -59,7 +59,7 @@ border-radius: 0.25rem; }
 .dsMenuCardP {
   font-size: 1.2rem;
   line-height: 1.8;
-  color: #A0A0A0;
+  color: #999;
   margin: 0.5rem 0 1rem 0rem; }
 
 .dsMenuA {
@@ -91,7 +91,7 @@ border-radius: 0.25rem; }
 .dsMenuCardHeaderTypo {
   font-weight: 300;
   font-size: 1.8rem;
-  color: #D2D2D2;
+  color: #ffffff;
   text-decoration: none; }
 
 .dsMenuCardHeaderTypo:hover {
