@@ -1,17 +1,18 @@
 /* B O D Y */
 .dsBody {
-  background-color: #282828 !important;
+  background-color: #2D3340 !important;
   color: #fff;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Rubik, Helvetica, Arial, sans-serif;
   padding: 0 0 100px 0; }
 
 
 /* H E A D E R */
 .dsHeaderWide {
-  background-color: #282828;
+  background-color: #2D3340;
   font-size: 1.5em;
-  font-weight: 300;
-  width: 100%; }
+  font-weight: 500;
+  width: 100%;
+  margin: 0 0 60px 0; }
 
 .dsMenuHeader {
   font-size: 2em;
@@ -19,7 +20,7 @@
 
 .dsMenuHeaderText {
   font-size: 2.5rem;
-  font-weight: 300;
+  font-weight: 100;
   margin: 0;
   top: 50%;
   transform: translate(170%, -50%); }
@@ -32,26 +33,25 @@
 
 /*  H E A D I N G S */
 .dsMenuH1 {
-  background-color: #191919;
+  background-color: #1C2026;
   color: #D2D2D2;
-  font-size: 1.3rem;
-  font-weight: 600;
-  text-transform: uppercase;
+  font-size: 2rem;
+  font-weight: 500;
   letter-spacing: 0.1rem;
   line-height: 1;
-  margin-top: 60px;
+  margin: 60px 0;
   padding: 1.6rem 2rem 1.5rem 2.1rem;
   width: 100%;
-border-radius: 0.25rem; }
+  border-radius: 0.25rem; }
 
 .dsMenuH3 {
-  color: #ffffff;
-  font-size: 1rem;
-  font-weight: 600;
+  color: #A3B1CC;
+  font-size: 1.5rem;
+  font-weight: 100;
   letter-spacing: 0.1rem;
   text-transform: uppercase;
   border: none;
-  padding: 0;
+  padding: 0 0 1.5rem 0;
   margin: 0; }
 
 
@@ -59,11 +59,13 @@ border-radius: 0.25rem; }
 .dsMenuCardP {
   font-size: 1.2rem;
   line-height: 1.8;
-  color: #999;
+  font-weight: 100;
+  color: #A3B1CC;
   margin: 0.5rem 0 1rem 0rem; }
 
 .dsMenuA {
   text-decoration: underline;
+  font-weight: 100;
   color: #fff; }
 
 .dsMenuA:hover {
@@ -80,16 +82,16 @@ border-radius: 0.25rem; }
 /* A C C O R D I O N   L E V E L  1 */
 
 .dsMenuCard { 
-  background-color: #282828;
+  background-color: #1C2026;
 }
 
 .dsMenuCardHeader {
-  font-weight: 200;
+  font-weight: 100;
   font-size: 2.2rem;
-  background-color: #373737; }
+  background-color: #343C4D; }
 
 .dsMenuCardHeaderTypo {
-  font-weight: 300;
+  font-weight: 100;
   font-size: 1.8rem;
   color: #ffffff;
   text-decoration: none; }
@@ -117,7 +119,7 @@ border-radius: 0.25rem; }
 
 /* C O N T E N T   L E V E L   1 */
 .dsMenuCardBody {
-  background-color: #373737;
+  background-color: #3B4559;
   padding: 2rem; }
 
 .dsMenuDivider {
@@ -128,3 +130,14 @@ border-radius: 0.25rem; }
 .dsMenuIframe {
   width: 100%;
   height: 100%; }
+
+  /* I N F O */
+  .dsInfo {
+  font-size: 1rem;
+  line-height: 1.8;
+  font-weight: 100;
+  color: #7A8599;
+  margin-top: 1rem; }
+
+  .dsInfo a {
+    color: #7A8599; }
