@@ -2,17 +2,17 @@
 /* VALID */
 
 :root {
-  --fdkColorWhite: #fff;
-  --fdkColorNeutralDarkest: #121619;
-  --fdkColorNeutralDarker: #2D3741;
-  --fdkColorNeutralDark: #6C737A;
-  --fdkColorNeutral: #969BA0;
-  --fdkColorNeutralLight: #D5D7D9;
-  --fdkColorNeutralLighter: #DFE1E2;
-  --fdkColorNeutralLightest: #EEEFF0;
+  --blue-56: #1C2026;
+  --blue-52: #2D3340;
+  --blue-48: #3B4559;
+  --blue-44: #475673;
+  --blue-38: #566C99;
+  --blue-20: #70A0FF;
+  --blue-14: #9EBEFF;
+  --blue-4: #EBF1FF;
 
-  --fdkColorAlertWarningLightest: #FFF2D8;
-  --fdkColorAlertWarningDarker: #885B00;
-
+  --neutral-6: #E1E2E5;
+  --neutral-2: #F5F6F7;
+  --neutral-0: #F5F6F7;
 
  }
