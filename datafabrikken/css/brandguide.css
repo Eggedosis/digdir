@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.bgBody {
+  background-color: #EBF1FF !important;
+  color: #2D3340; }
+
+.bgHeaderWide {
+  background-color: #EBF1FF;
+  font-size: 1.5em;
+  font-weight: 500;
+  width: 100%;
+  margin: 0 0 60px 0; }
+
+.bgMenuHeader {
+  font-size: 2em;
+  padding: 0.5em 0 0 0; }
+
+.bgColorBox {
+  background-color: #fff;
+  border-radius: 2px;
+  box-shadow: #2D3340; }
